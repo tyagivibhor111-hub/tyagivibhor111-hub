@@ -22,7 +22,7 @@
 
 <h3 align=center> 🏃‍♂️ <i> building things, breaking things, learning things </i> 🥤 </h3>
 
-<img height="300" width="500" alt="GIF" align="right" src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-1195.gif">
+<img height="300" width="500" alt="GIF" align="right" src="https://media1.tenor.com/m/cbuD7hyZawAAAAAC/eyebrow-waggle-eye-brow.gif">
 
 🏃‍♂️ <b> building things, breaking things, learning things.
 
