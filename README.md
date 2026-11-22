@@ -24,7 +24,6 @@
 
 <img height="300" width="500" alt="GIF" align="right" src="https://media1.tenor.com/m/cbuD7hyZawAAAAAC/eyebrow-waggle-eye-brow.gif">
 
-🏃‍♂️ <b> building things, breaking things, learning things.
 
 🔥 AI/ML Engineer & Full-Stack Developer — building intelligent applications and scalable web experiences </b>
 
@@ -38,7 +37,7 @@
 
 🔋 <b> hands-on with NVIDIA DGX A100 — training and validating machine learning and deep learning models </b>
 
-🎓 <b> Computer Science @ ABESIT — status: surviving </b>
+🎓 <b> B.Tech Computer Science @ ABESIT — status: surviving </b>
 
 <!--here is my [cv](https://drive.google.com/)
 
