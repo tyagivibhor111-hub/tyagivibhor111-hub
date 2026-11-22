@@ -1,6 +1,4 @@
-# https://media1.tenor.com/m/MWY8JnvFeeEAAAAC/ferris-rust.gif
-
-<h1 align=center> hii, i'm vibhor tyagi ❄️ </h1>
+<h1 align=center> Hii, i'm vibhor tyagi ❄️ </h1>
 
 <p align=center>
 <img width="200" height="200" src="https://media1.tenor.com/m/v1dPoOluqiwAAAAd/ferris-rust.gif">
@@ -17,7 +15,7 @@
 |  productivity systems    | ![arch](https://img.shields.io/badge/arch%20linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)  ![debian](https://img.shields.io/badge/debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)  ![macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)  ![neovim](https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)  ![notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) |
 |  toolkit                | ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)  ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)  ![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white) |
 |  frontend              | ![next js](https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) |
-| social links         |  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vibhor-portfolio-three.vercel.app/)  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/vibhor-tyagi-5b2954416)  [![github](https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tyagivibhor111-hub)  [![gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tyagivibhor111@gmail.com)  [![leetcode](https://img.shields.io/badge/-leetcode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Vibhortyagii/)  [![Codeforces](https://img.shields.io/badge/Codeforces-%23445f9d.svg?style=for-the-badge&logo=Codeforces&logoColor=white)(https://codeforces.com/profile/Vibhor-Tyagii) |
+| social links         |  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vibhor-portfolio-three.vercel.app/)  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/vibhor-tyagi-5b2954416)  [![github](https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tyagivibhor111-hub)  [![gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tyagivibhor111@gmail.com)  [![leetcode](https://img.shields.io/badge/-leetcode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Vibhortyagii/)  [![Codeforces](https://img.shields.io/badge/Codeforces-%23445f9d.svg?style=for-the-badge&logo=Codeforces&logoColor=white)(https://codeforces.com/profile/Vibhor-Tyagii)] |
 
 
 ## 🔎 about me 🔎
@@ -26,7 +24,7 @@
 
 <img height="300" width="500" alt="GIF" align="right" src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-1195.gif">
 
-🔥 <b> building things, breaking things, learning things.
+🏃‍♂️ <b> building things, breaking things, learning things.
 
 🔥 AI/ML Engineer & Full-Stack Developer — building intelligent applications and scalable web experiences </b>
 
